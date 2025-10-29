@@ -49,7 +49,7 @@ export default function App(){
         <section id="experience" className="card">
           <h3>Professional Experience</h3>
           <article>
-            <h4>Praba's VCare Health Clinic Pvt Ltd — System Administrator ( 2025 – Present)</h4>
+            <h4>Praba's VCare Health Clinic Pvt Ltd — System Administrator (2025 – Present)</h4>
             <ul>
               <li>Managed IT infrastructure for 3,000+ users across 80+ branches.</li>
               <li>Automated daily IT tasks using Bash & Batch (USB blocking, user creation, cleanup).</li>
@@ -60,7 +60,7 @@ export default function App(){
           </article>
 
           <article>
-            <h4>Tech Fruit Solutions Pvt Ltd — Technical Support Engineer ( 2024 – 2025)</h4>
+            <h4>Tech Fruit Solutions Pvt Ltd — Technical Support Engineer (2024 – 2025)</h4>
             <ul>
               <li>Provided L1/L2 support for 80+ corporate users.</li>
               <li>Administered Microsoft 365 services: Outlook, OneDrive, Teams.</li>
@@ -70,7 +70,7 @@ export default function App(){
           </article>
 
           <article>
-            <h4>Dhatchan Academy — Administrative Service Officer (IT Infrastructure) ( 2021 – 2024)</h4>
+            <h4>Dhatchan Academy — Administrative Service Officer (IT Infrastructure) (2021 – 2024)</h4>
             <ul>
               <li>Managed Linux infrastructure for 40+ users and deployed dual-boot systems.</li>
               <li>Configured routers/APs, applied MAC filtering & site blocking policies.</li>
