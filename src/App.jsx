@@ -52,10 +52,12 @@ export default function App(){
             <h4>Praba's VCare Health Clinic Pvt Ltd — System Administrator (2025 – Present)</h4>
             <ul>
               <li>Managed IT infrastructure for 3,000+ users across 80+ branches.</li>
-              <li>Automated daily IT tasks using Bash & Batch (USB blocking, user creation, cleanup).</li>
-              <li>Configured Zimbra Mail, NAS sharing, and FortiGate VPN for secure access.</li>
-              <li>Supported VLAN/MPLS troubleshooting and managed printer & asset inventory.</li>
-              <li>Reduced manual workload by 40% through automation and ensured 99.9% uptime.</li>
+              <li>Performing Windows/Linux patch updates, monthly server maintenance, and endpoint update verification</li>
+              <li>Creating patching checklists, validating UAT updates, and ensuring endpoint health.</li>
+              <li>Automated daily IT tasks using Bash & Batch scripts (USB block, clean-up tasks, user creation)</li>
+              <li>Configured NAS, Zimbra mail, FortiGate VPN, and supported MPLS/VLAN operations.</li>
+              <li>Reduced manual workload by 40% through patch-related automation and routine scripting</li>
+              <li>Ensured 99.9% uptime for branch-level IT operations.</li>
             </ul>
           </article>
 
@@ -63,9 +65,10 @@ export default function App(){
             <h4>Tech Fruit Solutions Pvt Ltd — Technical Support Engineer (2024 – 2025)</h4>
             <ul>
               <li>Provided L1/L2 support for 80+ corporate users.</li>
-              <li>Administered Microsoft 365 services: Outlook, OneDrive, Teams.</li>
+              <li>Supported Microsoft 365 updates, Windows patching, and endpoint security checks</li>
               <li>Managed HPE switches (VLAN/PoE) and GajShield firewall.</li>
-              <li>Supported ERP applications and maintained asset documentation.</li>
+              <li>Maintained IT documentation, including patch status, asset details, and compliance reports</li>
+              <li>Provided support for OS installation, Outlook issues, Teams, and basic networking</li>
             </ul>
           </article>
 
